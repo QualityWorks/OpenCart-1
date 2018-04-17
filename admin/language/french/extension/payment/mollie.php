@@ -67,7 +67,7 @@ $_['name_mollie_paypal']        = "PayPal";
 $_['name_mollie_paysafecard']   = "paysafecard";
 $_['name_mollie_sofort']        = "SOFORT Banking";
 $_['name_mollie_giftcard']      = 'Giftcard';
-$_['method_inghomepay']         = 'ING Home\'Pay';
+$_['name_mollie_inghomepay']    = 'ING Home\'Pay';
 
 // Text
 $_['text_edit']                    = "Éditer Mollie";
